@@ -12,7 +12,9 @@ Simple tool to run commands across Linux cluster. The tool does not require any 
 ## Configuration
 * Select one host as master, the other hosts are slaves
 * Setup root passwordless connection between master and slave hosts
-* Prepare nodes.txt file containing host names/IP addresses of all slave hosts. [Example](nodes.txt)
+* Prepare nodes.txt file containing host names/IP addresses of all slave hosts.<br>
+
+[Example](nodes.txt)
 
 ## hostsproc.rc Procs description
 
